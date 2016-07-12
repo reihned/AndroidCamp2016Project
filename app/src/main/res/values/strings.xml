@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Motocycles!</string>
+    <string name="name_r3">Yamaha R3</string>
+    <string name="desc_r3">This is a description for the Yamaha R3 </string>
+    <string name="name_rc390">KTM RC390</string>
+    <string name="desc_rc390">This is a description for the KTM RC 390</string>
+    <string name="name_cbr300r">Honda CBR 300R</string>
+    <string name="desc_cbr300r">This is a description for the Honda CBR 300R</string>
+</resources>
